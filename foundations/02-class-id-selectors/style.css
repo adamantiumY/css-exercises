@@ -5,16 +5,14 @@
 
 #four {
   background-color: rgb(126, 251, 126);
-  font-size: 24px;
   font-weight: bold;
 }
 
-.odd,
-.three {
+.odd{
   background-color: rgba(251, 32, 87, 0.559);
   font-family: Verdana, 'DejuVu Sans', sans-serif;
 }
 
-.three {
-  font-size: 36px;
+.adjust-font-size {
+  font-size: 24px;
 }
