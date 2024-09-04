@@ -8,3 +8,8 @@
   font-size: 24px;
   font-weight: bold;
 }
+
+.odd {
+  background-color: rgba(251, 32, 87, 0.559);
+  font-family: Verdana, 'DejuVu Sans', sans-serif;
+}
